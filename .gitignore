@@ -1,0 +1,6 @@
+# Ignore everything
+*
+# Except a few files
+!.gitignore
+!test.test
+!test2.test
